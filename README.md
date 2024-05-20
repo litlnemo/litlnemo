@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**litlnemo/litlnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wendi, an artsy nerd, or Renaissance person, or general geek who likes colorful things and music... you get the idea.
 
-Here are some ideas to get you started:
+I taught web design with HTML/CSS for 15 years and have done a little coding in python, javascript, and php over the years, but promptly forgot most of that in the last few years while doing other things like recording my debut album, [Looking For Buildings](https://wendidunlap.com/music/looking-for-buildings/). (Hear it on Spotify, Apple Music, Bandcamp, all the usual places.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random weird facts about me:
+
+- 🛼 I used to be a roller figure skater
+- 📖 I wrote a book about Yorkshire surnames
+- 🦍 I once ran the bases before a Seattle Mariners game wearing a gorilla costume and waving a Wiffle bat
+
+## Other stuff:
+
+- 🔭 I’m currently working on ... writing another album
+- 🌱 I’m currently learning ... Python. RE-learning it, that is. And getting further than last time, I hope!
+- 💬 Ask me about ... Medieval English surnames, haha!
+- 😄 Pronouns: ... she/her/they
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@litlnemo/30-nites-of-code)  
+  ![@litlnemo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=litlnemo)
