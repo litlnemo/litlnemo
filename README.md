@@ -18,5 +18,5 @@ I taught web design with HTML/CSS for 15 years and have done a little coding in 
 - 😄 Pronouns: ... she/her/they
 
 ### #30NitesOfCode @ Codédex:
-  [Check out my progress!](https://www.codedex.io/@litlnemo/30-nites-of-code)  
+   
   ![@litlnemo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=litlnemo)
