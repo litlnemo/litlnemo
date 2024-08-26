@@ -17,6 +17,4 @@ I taught web design with HTML/CSS for 15 years and have done a little coding in 
 - 💬 Ask me about ... Medieval English surnames, haha!
 - 😄 Pronouns: ... she/her/they
 
-### #30NitesOfCode @ Codédex:
-   
   ![@litlnemo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=litlnemo)
